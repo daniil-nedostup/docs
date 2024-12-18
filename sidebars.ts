@@ -147,6 +147,8 @@ const sidebars: SidebarsConfig = {
                 'operator-guide/microsoft-entra/awx-operator-authentication',
                 'operator-guide/microsoft-entra/argo-cd-authentication',
                 'operator-guide/microsoft-entra/nexus-authentication',
+                'operator-guide/microsoft-entra/oauth2-proxy-authentication',
+                'operator-guide/microsoft-entra/harbor-authentication',
               ],
             },
           ],

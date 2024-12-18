@@ -16,7 +16,7 @@ Below is the list of components with OIDC integration instructions:
 - [Ansible AWX](awx-operator-authentication.md)
 - [DefectDojo](defectdojo-oidc-authentication.md)
 - [Argo CD](argo-cd-authentication.md)
-- Harbor
-- Oauth2-proxy
+- [Harbor](harbor-authentication.md)
+- [OAuth2-proxy](oauth2-proxy-authentication.md)
 - OpenSearch
 - Grafana
