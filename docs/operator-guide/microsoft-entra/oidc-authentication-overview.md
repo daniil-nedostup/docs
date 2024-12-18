@@ -11,12 +11,12 @@ Configuring OIDC authentication with Microsoft Entra brings significant benefits
 Below is the list of components with OIDC integration instructions:
 
 - [SonarQube](./sonar-oidc-authentication.md)
-- Dependency Track
+- [Dependency-Track](./dependency-track-authentication.md)
 - [Nexus](./nexus-authentication.md)
 - [Ansible AWX](awx-operator-authentication.md)
 - [DefectDojo](defectdojo-oidc-authentication.md)
 - [Argo CD](argo-cd-authentication.md)
-- Harbor
-- Oauth2-proxy
-- OpenSearch
-- Grafana
+- [Harbor](harbor-authentication.md)
+- [OAuth2-proxy](oauth2-proxy-authentication.md)
+- [OpenSearch](opensearch-authentication.md)
+- [Grafana](grafana-authentication.md)
